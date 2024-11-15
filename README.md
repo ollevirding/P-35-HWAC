@@ -1,6 +1,6 @@
 # P-35-HWAC
 
-Course: Project in Computational Science
+Course: Project in Computational Science <br>
 Uppsala university 
 
 Hypebeast Love <br>
