@@ -3,7 +3,7 @@
 Course: Project in Computational Science <br>
 Uppsala university 
 
-Hypebeast Love <br>
+Love <br>
 Olle <br>
 Alexander <br> 
 
