@@ -3,10 +3,10 @@
 Course: Project in Computational Science
 Uppsala university 
 
-Hypebeast Love
-Olle
-Alexander 
+Hypebeast Love <br>
+Olle <br>
+Alexander <br> 
 
-Mixed-Integer Programming Model for Op􏰀mal Hardware Ac􏰀va􏰀on
-Code Recommenda􏰀on: A Compara􏰀ve Study
+Mixed-Integer Programming Model for Optimal Hardware Activation
+Code Recommendation: A Comparative Study
 
